@@ -1,0 +1,67 @@
+[
+  {
+    "KeyName": "Google-GAIL",
+    "TargetDate": "2026-05-29T17:00:00",
+    "ExamUrl": "https://www.credly.com/org/google-cloud/badge/generative-ai-leader-certification",
+    "IsReNew": false,
+    "IsTentative": false
+  },
+  {
+    "KeyName": "Google-DevOps",
+    "TargetDate": "2026-06-12T16:00:00",
+    "IsReNew": false,
+    "IsTentative": false
+  },
+  {
+    "KeyName": "Google-PDevloper",
+    "TargetDate": "2026-07-11T16:00:00"
+  },
+  {
+    "KeyName": "DP-700",
+    "TargetDate": "2026-07-18T07:00:00",
+    "IsReNew": false
+  },
+  {
+    "KeyName": "AZ-500",
+    "TargetDate": "2026-06-26T07:00:00",
+    "IsReNew": false
+  },
+  {
+    "KeyName": "AZ-700",
+    "TargetDate": null
+  },
+  {
+    "KeyName": "AZ-204",
+    "TargetDate": "2027-06-01T00:00:00",
+    "ExamUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/renew",
+    "IsReNew": true
+  },
+  {
+    "KeyName": "AI-102",
+    "TargetDate": "2027-07-14T00:00:00",
+    "ExamUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/renew/",
+    "IsReNew": true
+  },
+  {
+    "KeyName": "DP-600",
+    "TargetDate": "2027-01-01T00:00:00",
+    "ExamUrl": "https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/renew/",
+    "IsReNew": true
+  },
+  {
+    "KeyName": "AZ-104",
+    "TargetDate": "2027-04-26T00:00:00",
+    "ExamUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/renew/",
+    "IsReNew": true
+  },
+  {
+    "KeyName": "AZ-305",
+    "TargetDate": "2027-03-01T12:00:00",
+    "IsReNew": false
+  },
+  {
+    "KeyName": "AZ-400",
+    "TargetDate": "2027-02-15T14:00:00",
+    "IsReNew": false
+  }
+]
