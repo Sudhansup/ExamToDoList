@@ -57,11 +57,13 @@
   {
     "KeyName": "AZ-305",
     "TargetDate": "2027-03-01T12:00:00",
+    "ExamUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/renew/"
     "IsReNew": false
   },
   {
     "KeyName": "AZ-400",
     "TargetDate": "2027-02-15T14:00:00",
+    "ExamUrl": "https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/renew/"
     "IsReNew": false
   }
 ]
